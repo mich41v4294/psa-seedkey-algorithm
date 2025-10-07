@@ -9,6 +9,7 @@
 | SMEG/RNEG | ADDA |
 | IVI_HEAD_UNIT | F4AA |
 | AIO_CRONY | DFD7 |
+| AIO_CRONY2 | D904 |
 
 ### Screen (EMF)
 | ECU | KEY |
@@ -36,6 +37,7 @@
 | BTA3S | DC3B |
 | BTA_CN | F4F4 |
 | BSRF | B7A9 |
+| RTBM | DE6B |
 
 ### Instrument Panel (COMBINE)
 | ECU | KEY |
